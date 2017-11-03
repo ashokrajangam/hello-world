@@ -1,5 +1,5 @@
 # hello-world
-Hello world  :)
+
 
 Hey! folks.. Hope everyone are doing great.  
 My name is Ashok and I am new to programming. 
