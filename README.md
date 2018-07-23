@@ -1,6 +1,5 @@
 # hello-world
 
 
-Hey! folks.. Hope everyone are doing great.  
-My name is Ashok and I am new to programming. 
-I would like to develop good programming skills especially in Java. 
+Hello folks!
+My name is Ashok.Hope you are doing great.
